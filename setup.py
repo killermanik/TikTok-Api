@@ -11,7 +11,7 @@ setuptools.setup(
     version="3.8.9",
     license="MIT",
     description="The Unofficial TikTok API Wrapper in Python 3.",
-    author="David Teather",
+    author="lol",
     author_email="contact.davidteather@gmail.com",
     url="https://github.com/davidteather/tiktok-api",
     long_description=long_description,
